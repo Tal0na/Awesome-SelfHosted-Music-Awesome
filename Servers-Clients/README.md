@@ -12,7 +12,7 @@ For scrobbling support we recommend servers with native support, such as Navidro
 ### 📱 Desktop
 
 - [Windows Clients](windows.md)
-- [WacOS Clients](macOS.md)
+- [Mac Clients](mac.md)
 - [Linux Clients](linux.md)
 
 ### 📱 Web

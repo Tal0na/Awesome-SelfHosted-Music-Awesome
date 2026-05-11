@@ -70,6 +70,25 @@ A curated list of recommended Linux clients compatible with **Selfhost Music** a
 - 🌐 [GitHub](https://github.com/victoralvesf/aonsoku)
 - 🧊 [Flatpak (Flathub)](https://flathub.org/en/apps/io.github.victoralvesf.aonsoku)
 - 📦 [Releases (.deb / AppImage / .tar.gz)](https://github.com/victoralvesf/aonsoku/releases)
+
+---
+
+### 🎧 kopuz
+
+- **API Support:** ✅ Navidrome / ✅ Jellyfin
+- **License:** MIT License
+- **Open Source:** ✅ Yes
+- **Price:** 🆓 Free
+- **Status:** 🟢 Actively maintained
+- **Rating:** ⭐⭐⭐⭐⭐
+
+#### 🚀 Highlights
+- Kopuz is a modern, lightweight, music player application built with Rust and the Dioxus framework. It provides a clean and responsive interface for managing and enjoying your local music collection.
+
+#### 📥 Installation
+- 🌐 [GitHub](https://github.com/Kopuz-org/kopuz)
+- 🌐 [Official Website](kopuz.temidara.rocks)
+
 ---
 
 ### 🎧 Psysonic
