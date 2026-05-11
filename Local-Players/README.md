@@ -12,7 +12,7 @@ If your player doesn't have built-in scrobbling, we recommend using a third-part
 ### 📱 Desktop
 
 - [Windows Clients](windows.md)
-- [WacOS Clients](mac.md)
+- [Mac Clients](mac.md)
 - [Linux Clients](linux.md)
 
 ### 📱 Web
