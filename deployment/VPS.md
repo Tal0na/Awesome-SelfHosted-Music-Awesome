@@ -14,28 +14,17 @@ It allows you to run services like Navidrome or Jellyfin 24/7 without depending 
 
 ## ✅ Why use a VPS?
 
-- 🌍 Access your server from anywhere  
-- ⏱️ High uptime and stability  
-- ⚡ Better performance compared to low-end local hardware  
-- 🔒 No need to expose your home IP  
-
----
-
-## 🧰 Common VPS Providers
-
-Popular options include:
-
-- Oracle Cloud (free tier available)  
-- DigitalOcean  
-- Vultr  
-- Hetzner  
+- 🌍 Access your server from anywhere
+- ⏱️ High uptime and stability
+- ⚡ Better performance compared to low-end local hardware
+- 🔒 No need to expose your home IP
 
 ---
 
 ## 🛠️ Basic Setup
 
-1. Create a VPS instance (Ubuntu is recommended)  
+1. Create a VPS instance (Ubuntu is recommended)
 2. Connect via SSH:
-   
+
    ```bash
    ssh user@your-server-ip
