@@ -1,3 +1,4 @@
+/* Gruvbox Dark */
 body {
   background-color: #282828;
   color: #ebdbb2;
@@ -13,16 +14,28 @@ a:hover {
 
 h1,
 h2,
-h3 {
+h3,
+h4 {
   color: #b8bb26;
 }
 
 code {
   background-color: #3c3836;
   color: #fb4934;
+  border-radius: 4px;
 }
 
 pre {
   background-color: #1d2021;
   border-left: 3px solid #d65d0e;
+}
+
+.site-header {
+  background-color: #1d2021;
+  border-top: 3px solid #d65d0e;
+}
+
+.site-footer {
+  background-color: #1d2021;
+  border-top: 1px solid #3c3836;
 }
