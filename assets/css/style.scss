@@ -1,3 +1,9 @@
+---
+
+---
+
+@import "{{ site.theme }}";
+
 /* Gruvbox Dark */
 body {
   background-color: #282828;
@@ -30,12 +36,18 @@ pre {
   border-left: 3px solid #d65d0e;
 }
 
-.site-header {
+/* Cayman header */
+.page-header {
   background-color: #1d2021;
-  border-top: 3px solid #d65d0e;
+  background-image: none;
 }
 
-.site-footer {
-  background-color: #1d2021;
-  border-top: 1px solid #3c3836;
+.btn {
+  background-color: #3c3836;
+  border-color: #d79921;
+  color: #ebdbb2;
+}
+
+.btn:hover {
+  background-color: #504945;
 }
