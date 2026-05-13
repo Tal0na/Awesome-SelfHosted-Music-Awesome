@@ -1,5 +1,3 @@
 title: SelfHosted Music Awesome
 description: A curated collection of self-hosted music tools, servers, players, plugins and integrations.
-theme: minima
-minima:
-  skin: dark
+theme: jekyll-theme-cayman
