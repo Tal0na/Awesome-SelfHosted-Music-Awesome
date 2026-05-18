@@ -35,6 +35,16 @@ Automatically **fetches and stores lyrics** for songs in your Navidrome library.
 
 Displays the **music you're currently playing in Discord Rich Presence**.
 
+
+#### 📜 navidrome-lyrics-plugin
+
+🔗 [navidrome-lyrics-plugin](https://github.com/J0R6IT0/navidrome-lyrics-plugin)
+
+- **Open Source:** ✅ Yes
+- **Price:** Free
+
+A Navidrome plugin to fetch lyrics from multiple sources. Formerly Navidrome LRCLIB Plugin.
+
 ---
 
 #### 🤖 AudioMuse-AI-NV-plugin
