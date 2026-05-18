@@ -15,7 +15,7 @@ This repository contains a plugin for fetching daily playlists from ListenBrainz
 
 ---
 
-#### 🧩 navidrome-lrclib-plugin
+#### 📜 navidrome-lrclib-plugin
 
 🔗 [navidrome-lrclib-plugin](https://github.com/kepelet/navidrome-lrclib-plugin)
 
