@@ -4,9 +4,14 @@
 
 ---
 
+## 🤝 Contributing
+
+Don't see something that belongs here? Open an issue or submit a PR, your knowledge matters. Whether it's a client you use daily, a plugin you built, a theme you crafted, or a deployment trick you learned the hard way, this list grows through the community. No contribution is too small.
+
 ## 📚 Table of Contents
 
 - [🎧 Awesome Self-Hosted Music](#-awesome-self-hosted-music)
+  - [🤝 Contributing](#-contributing)
   - [📚 Table of Contents](#-table-of-contents)
   - [📖 About](#-about)
   - [🖥️ Servers](#️-servers)
@@ -19,8 +24,8 @@
   - [🎨 Themes](#-themes)
   - [🐳 Deployment](#-deployment)
   - [🌐 Remote Access](#-remote-access)
-  - [�️ Tools](#️-tools)
-  - [🤝 Contributing](#-contributing)
+  - [🛠️ Tools](#️-tools)
+  - [🤝 Contributing](#-contributing-1)
   - [📜 License](#-license)
 
 ---
