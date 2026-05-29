@@ -8,6 +8,8 @@
 
 Don't see something that belongs here? Open an issue or submit a PR, your knowledge matters. Whether it's a client you use daily, a plugin you built, a theme you crafted, or a deployment trick you learned the hard way, this list grows through the community. No contribution is too small.
 
+> 📄 For deeper information, always refer to the official documentation of each project.
+
 ## 📚 Table of Contents
 
 - [🎧 Awesome Self-Hosted Music](#-awesome-self-hosted-music)
