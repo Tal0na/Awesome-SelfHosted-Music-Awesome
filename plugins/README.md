@@ -1,42 +1,31 @@
-# 🎵 Self-Hosted Music Tools & Plugins
+# 🔌 Plugins & Extensions
+
+Unofficial plugins, API-based extensions, and enhancement tools for self-hosted music servers.
+
+## Available Platforms
+
+### 🎵 Navidrome
+
+Plugins and integrations built for Navidrome.
+
+- Apple Music Metadata
+- AudioMuse AI
+- Discord Rich Presence
+- ListenBrainz Daily Playlist
+- MusicBrainz Metadata
+- Navidrome Lyrics
+
+➡️ [Browse Navidrome Plugins](./navidrome/README.md)
 
 ---
 
-## 🔌 Navidrome Plugins
+### 🟣 Jellyfin
 
-Community plugins and tools built specifically for **Navidrome**.
+Plugins and integrations for Jellyfin.
 
-➡️ See the full list here:  
-**[Navidrome Plugins](/plugins/Pluguins-for-Navidrome.md)**
+- Lyrics Plugin
+- ListenBrainz Plugin
+- Last.fm Plugin
+- MusicBrainz Plugin
 
-Examples include tools for:
-
-- lyrics providers
-- Discord integrations
-- AI discovery
-- playlist automation
-- ListenBrainz / Last.fm integrations
-
----
-
-## 🟣 Jellyfin Music Plugins
-
-Tools and integrations that enhance the **Jellyfin music experience**.
-
-➡️ See the full list here:  
-**[Jellyfin Music Plugins](/plugins/plugins-for-jellyfin.md)**
-
-Examples include:
-
-- scrobbling tools
-- lyrics integrations
-- Discord presence
-- music metadata tools
-
----
-
-## ⚠️ Notes
-
-- Most plugins are **community maintained**.
-- Compatibility may depend on your server version.
-- Always check the plugin repository for installation instructions.
+➡️ [Browse Jellyfin Plugins](./jellyfin/README.md)
