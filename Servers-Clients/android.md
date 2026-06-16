@@ -8,7 +8,7 @@ A curated list of Android apps compatible with **Selfhost Music** and other Subs
 
 ### 🎧 Symfonium
 
-- **Support:** ✅ Local Music / ✅ Navidrome / ✅ Subsonic / ✅ OpenSubsonic / ✅ Jellyfin / ✅ Plex / ✅ NAS
+- **Support:** ✅ Navidrome / ✅ Subsonic / ✅ OpenSubsonic / ✅ Jellyfin / ✅ Plex / ✅ NAS
 - **License:** Proprietary
 - **Open Source:** ❌ No
 - **Price:** 💰 Paid (one-time purchase, trial available)
