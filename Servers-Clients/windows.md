@@ -24,7 +24,7 @@ A curated list of Windows desktop clients compatible with **Selfhost Music** and
 
 ### Supersonic
 
-- **Support:** ✅ Selfhost Music / ✅ Subsonic / ✅ OpenSubsonic
+- **Support:** ✅ Navidrome / ✅ Subsonic / ✅ OpenSubsonic
 - **License:** GPL-3.0
 - **Open Source:** ✅ Yes
 - **Price:** 🆓 Free
