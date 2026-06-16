@@ -26,7 +26,7 @@ A curated list of recommended Tui clients compatible with **Selfhost Music** and
 
 ### SubTUI
 
-- **API Support:** ✅ Subsonic
+- **API Support:** ✅ Navidrome / ✅ Opensubsonic / ✅ Subsonic
 - **License:** MIT license
 - **Open Source:** ✅ Yes
 - **Price:** 🆓 Free
