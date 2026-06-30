@@ -33,7 +33,7 @@ A curated list of recommended Linux clients compatible with **Selfhost Music** a
 
 ### 🎧 Supersonic
 
-- **API Support:** ✅ Navidrome / ✅ Jellyfin
+- **API Support:** ✅ Navidrome / ✅ Jellyfin / ✅ OpenSubsonic
 - **License:** GPL-3.0
 - **Open Source:** ✅ Yes
 - **Price:** 🆓 Free
@@ -54,7 +54,7 @@ A curated list of recommended Linux clients compatible with **Selfhost Music** a
 
 ### 🎧 Aonsoku
 
-- **API Support:** ✅ Navidrome / ✅ Jellyfin
+- **API Support:** ✅ Navidrome / ✅ Jellyfin / ✅ OpenSubsonic
 - **License:** MIT
 - **Open Source:** ✅ Yes
 - **Price:** 🆓 Free
@@ -75,7 +75,7 @@ A curated list of recommended Linux clients compatible with **Selfhost Music** a
 
 ### 🎧 kopuz
 
-- **API Support:** ✅ Navidrome / ✅ Jellyfin
+- **API Support:** ✅ Navidrome / ✅ Jellyfin / ✅ OpenSubsonic
 - **License:** MIT License
 - **Open Source:** ✅ Yes
 - **Price:** 🆓 Free
@@ -93,9 +93,8 @@ A curated list of recommended Linux clients compatible with **Selfhost Music** a
 
 ### 🎧 Firmium
 
-
-- **API Support:** ✅ Navidrome / ✅ Jellyfin
-- **License:** MIT
+- **API Support:** ✅ Navidrome / ✅ OpenSubsonic
+- **License:** GPL-3.0 license
 - **Open Source:** ✅ Yes
 - **Price:** 🆓 Free
 - **Status:** 🟢 Actively maintained

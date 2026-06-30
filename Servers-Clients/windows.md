@@ -28,7 +28,7 @@ A curated list of Windows desktop clients compatible with **Selfhost Music** and
 - **License:** GPL-3.0
 - **Open Source:** ✅ Yes
 - **Price:** 🆓 Free
-- **Rating:** ⭐⭐⭐⭐☆
+- **Rating:** ⭐⭐⭐⭐⭐
 - **Status:** 🟢 Actively maintained
 - **Notes:**
   - Lightweight desktop client
@@ -56,7 +56,7 @@ A curated list of Windows desktop clients compatible with **Selfhost Music** and
 - **Open Source:** ✅ Yes
 - **Price:** 🆓 Free
 - **Status:** 🟢 Actively maintained
-- **Rating:** ⭐⭐⭐⭐⭐
+- **Rating:** ⭐⭐⭐☆☆
 
 #### 🚀 Highlights
 - Kopuz is a modern, lightweight, music player application built with Rust and the Dioxus framework. It provides a clean and responsive interface for managing and enjoying your local music collection.
@@ -83,12 +83,27 @@ A curated list of Windows desktop clients compatible with **Selfhost Music** and
 #### 📥 Installation
 - 🌐 [GitHub](https://github.com/Psychotoxical/psysonic)
 - 📦 [Releases](https://github.com/Psychotoxical/psysonic/releases)
+-
 ---
 
-https://github.com/Taiko2k/Tauon
+### 🎧 Firmium
 
+- **API Support:** ✅ Navidrome / ✅ OpenSubsonic
+- **License:** GPL-3.0 license
+- **Open Source:** ✅ Yes
+- **Price:** 🆓 Free
+- **Status:** 🟢 Actively maintained
+- **Rating:** ⭐⭐⭐☆☆
+
+#### 🚀 Highlights
+- Equalizer — 10-band graphic and parametric modes, saveable profiles, per-device assignment
+- Gapless & crossfade playback — next track preloads silently; configurable 1–12 s crossfade
+- Scrobbling — Last.fm (via server) and ListenBrainz
+
+#### 📥 Installation
+- 🌐 [GitHub](https://github.com/fossisawesome/firmium)
+- 📦 [Releases (.deb / AppImage / .tar.gz)](https://github.com/fossisawesome/firmium/releases)
 ---
-
 ### ⚠️ Notes
 
 - Licensing and pricing information may change over time.

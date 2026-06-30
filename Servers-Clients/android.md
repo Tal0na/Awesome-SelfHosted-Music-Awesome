@@ -95,6 +95,27 @@ A curated list of Android apps compatible with **Selfhost Music** and other Subs
 - 🌐 [Official Website](https://substreamer.org/)
 - 🛒 [Google Play Store](https://play.google.com/store/apps/details?id=com.ghenry22.substream2)
 
+
+---
+
+### 🎧 Firmium
+
+- **API Support:** ✅ Navidrome / ✅ OpenSubsonic
+- **License:** GPL-3.0 license
+- **Open Source:** ✅ Yes
+- **Price:** 🆓 Free
+- **Status:** 🟢 Actively maintained
+- **Rating:** ⭐⭐⭐☆☆
+
+#### 🚀 Highlights
+- Equalizer — 10-band graphic and parametric modes, saveable profiles, per-device assignment
+- Gapless & crossfade playback — next track preloads silently; configurable 1–12 s crossfade
+- Scrobbling — Last.fm (via server) and ListenBrainz
+
+#### 📥 Installation
+- 🌐 [GitHub](https://github.com/fossisawesome/firmium)
+- 📦 [Releases (.deb / AppImage / .tar.gz)](https://github.com/fossisawesome/firmium/releases)
+
 ---
 
 ## ⚠️ Notes
