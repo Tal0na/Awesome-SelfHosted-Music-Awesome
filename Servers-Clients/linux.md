@@ -23,7 +23,7 @@ A curated list of recommended Linux clients compatible with **Selfhost Music** a
 - Smart playlist editor (Navidrome)
 - Synchronized and unsynchronized lyrics support
 
-#### 📥 Installation (Linux)
+#### 📥 Installation
 - 🌐 [GitHub](https://github.com/jeffvli/feishin)
 - 🧊 [Flatpak (Flathub) — ⭐ Recommended](https://flathub.org/en/apps/org.jeffvli.feishin)
 - 📦 [Releases (AppImage / .deb / .rpm)](https://github.com/jeffvli/feishin/releases)
@@ -46,7 +46,7 @@ A curated list of recommended Linux clients compatible with **Selfhost Music** a
 - High-quality playback using MPV
 - Multi-server support
 
-#### 📥 Installation (Linux)
+#### 📥 Installation
 - 🌐 [GitHub](https://github.com/dweymouth/supersonic)
 - 🧊 [Flatpak (Flathub)](https://flathub.org/en/apps/io.github.dweymouthsupersonic)
 - 📦 [Releases (AppImage / .tar.xz)](https://github.com/dweymouth/supersonic/releases)
@@ -66,7 +66,7 @@ A curated list of recommended Linux clients compatible with **Selfhost Music** a
 - Subsonic-focused experience
 - Clean and modern interface
 
-#### 📥 Installation (Linux)
+#### 📥 Installation
 - 🌐 [GitHub](https://github.com/victoralvesf/aonsoku)
 - 🧊 [Flatpak (Flathub)](https://flathub.org/en/apps/io.github.victoralvesf.aonsoku)
 - 📦 [Releases (.deb / AppImage / .tar.gz)](https://github.com/victoralvesf/aonsoku/releases)
@@ -80,7 +80,7 @@ A curated list of recommended Linux clients compatible with **Selfhost Music** a
 - **Open Source:** ✅ Yes
 - **Price:** 🆓 Free
 - **Status:** 🟢 Actively maintained
-- **Rating:** ⭐⭐⭐⭐⭐
+- **Rating:** ⭐⭐⭐☆☆
 
 #### 🚀 Highlights
 - Kopuz is a modern, lightweight, music player application built with Rust and the Dioxus framework. It provides a clean and responsive interface for managing and enjoying your local music collection.
@@ -89,6 +89,26 @@ A curated list of recommended Linux clients compatible with **Selfhost Music** a
 - 🌐 [GitHub](https://github.com/Kopuz-org/kopuz)
 - 🌐 [Official Website](kopuz.temidara.rocks)
 
+---
+
+### 🎧 Firmium
+
+
+- **API Support:** ✅ Navidrome / ✅ Jellyfin
+- **License:** MIT
+- **Open Source:** ✅ Yes
+- **Price:** 🆓 Free
+- **Status:** 🟢 Actively maintained
+- **Rating:** ⭐⭐⭐☆☆
+
+#### 🚀 Highlights
+- Equalizer — 10-band graphic and parametric modes, saveable profiles, per-device assignment
+- Gapless & crossfade playback — next track preloads silently; configurable 1–12 s crossfade
+- Scrobbling — Last.fm (via server) and ListenBrainz
+
+#### 📥 Installation
+- 🌐 [GitHub](https://github.com/fossisawesome/firmium)
+- 📦 [Releases (.deb / AppImage / .tar.gz)](https://github.com/fossisawesome/firmium/releases)
 ---
 
 ### 🎧 Psysonic
