@@ -77,6 +77,37 @@ A curated list of Android apps compatible with **self-hosted music** and other S
 
 ---
 
+### 🎧 Tempo
+
+- **Support:** ✅ Subsonic / ✅ OpenSubsonic / ✅ Navidrome
+- **License:** GPL-3.0
+- **Open Source:** ✅ Yes
+- **Price:** 🆓 Free
+- **Status:** 🟢 Actively maintained
+- **Rating:** ⭐⭐⭐⭐☆
+
+#### 🚀 Highlights
+- Native Android UI (light & dark themes)
+- Browse by artists, albums, genres, playlists, decades
+- Streaming & offline mode (offline under active development)
+- Playlist management (create, edit, manage)
+- Gapless playback
+- Chromecast support (rudimentary)
+- Android Auto support (full support in GitHub version)
+- Last.fm scrobbling
+- Podcasts & radio (if server supports)
+- Transcoding support
+- Synchronized lyrics with karaoke mode
+- Customizable home screen
+- OpenSubsonic API compatibility checking
+
+#### 📥 Installation (Android)
+- 🌐 [GitHub](https://github.com/CappielloAntonio/tempo)
+- 🛒 [F-Droid](https://f-droid.org/packages/com.cappielloantonio.notquitemy.tempo/)
+- 📦 [Releases (APK)](https://github.com/CappielloAntonio/tempo/releases)
+
+---
+
 ### 🎧 Substreamer
 
 - **Support:** ✅ Subsonic / ✅ Navidrome
