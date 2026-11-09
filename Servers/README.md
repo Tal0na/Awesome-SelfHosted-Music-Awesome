@@ -13,3 +13,4 @@
 - **[Funkwhale](/Servers/funkwhale.md)** – Federated server, allows sharing libraries across instances.
 - **[Ampache](/Servers/ampache.md)** – Web-based media server, compatible with various clients and apps.
 - **[Gonic](/Servers/gonic.md)** – Lightweight Subsonic-compatible server written in Go, fast and easy to deploy.
+- **[Melarka](/Servers/melarka.md)** – Household music server with its own iPhone and Android apps: an account per family member, synced lyrics, offline favorites, car autoplay.
