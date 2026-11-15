@@ -115,6 +115,7 @@ See → [remote-access/README.md](remote-access/README.md)
 
 ## 🛠️ Tools
 
+- [No Stairs Please](https://nostairsplease.com/) - Live music venue & booking directory covering small stages across all 50 US states, with an open MCP server (`https://nostairsplease.com/mcp`).
 > Complementary tools for managing and enhancing your music library.
 
 See → [tools/README.md](tools/README.md)
